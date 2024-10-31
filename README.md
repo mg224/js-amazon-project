@@ -1,1 +1,1 @@
-JavaScript Practice Project: Amazon
+#JavaScript Practice Project: Amazon
